@@ -1,6 +1,6 @@
 # Hi, I'm Stefan 👋
 
-📍 Indonesia  
+📍 Romania  
 🚀 SaaS Founder  
 Building digital infrastructure and meaningful web products.
 
