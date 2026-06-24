@@ -1,14 +1,17 @@
 # Hi, I'm Stefan 👋
 
 📍 Romania  
-🚀 SaaS Founder  
-Building digital infrastructure and meaningful web products.
+🚀 Building Agentic Systems
+Creating AI agents, automation workflows, and meaningful web products.
 
-I design and launch focused SaaS platforms and web experiences that solve real problems, especially in compliance and long-term digital legacy.
+I design and launch focused digital products that solve real problems, with a growing focus on agentic software, autonomous workflows, compliance, and long-term digital infrastructure.
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🚀 [Lymwave](https://lymwave.com)  
+Autopilot AI content marketing agent for SEO, AEO and GEO.
 
 ### 🔐 [ComplySafe.io](https://complysafe.io)
 AI-powered compliance scanner for SaaS companies.  
