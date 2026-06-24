@@ -8,7 +8,7 @@ I design and launch focused digital products that solve real problems, with a gr
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🚀 [Lymwave](https://lymwave.com)  
 Autopilot AI content marketing agent for SEO, AEO and GEO.
