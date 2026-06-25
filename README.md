@@ -13,6 +13,8 @@ I design and launch focused digital products that solve real problems, with a gr
 ### 🚀 [Lymwave](https://lymwave.com)  
 Autopilot AI content marketing agent for SEO, AEO and GEO.
 
+---
+
 ### 🔐 [ComplySafe.io](https://complysafe.io)
 AI-powered compliance scanner for SaaS companies.  
 Helps startups detect GDPR risks, missing legal pages, processor issues, and regulatory exposure before it becomes expensive.
