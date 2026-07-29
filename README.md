@@ -1,6 +1,7 @@
 # Hi, I'm Stefan 👋
 
-📍 Romania / Indonesia
+📍 🇷🇴 Romania / 🇮🇩 Indonesia
+
 🚀 Building Agentic Systems
 Creating AI agents, automation workflows, and meaningful web products.
 
